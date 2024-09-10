@@ -5,7 +5,7 @@ on:
 
 jobs:
   build-tauri:
-    name: 构建 Tauri 桌面版本
+    name: 构建Tauri 桌面版本
     strategy:
       fail-fast: false
       matrix:
